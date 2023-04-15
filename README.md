@@ -1,5 +1,4 @@
 # 💫 Hey! Sai bargav here..
-<span> style="color:orange;">Word up</span>
 🔭 Pre-Final year B.Tech student who enjoys solving problems and picking up challenging tasks<br><br>💻Proficient in Java, Data structures Algorithms, Spring boot, Data analysis <br><br>👯 I enjoy explaining complex technical topics in the most easiest way<br><br>⚡A life-long learner and am constantly seeking to improve my skills<br><br>💬 Feel free to connect with me and let's work on something great together!<br><br>🔭 Most of my free time goes for listening to Podcasts and meditation
 
 
